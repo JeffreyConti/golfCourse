@@ -1,0 +1,13 @@
+
+                                    FUNCTIONAL REQUIREMENTS
+
+As an anonymous user, I can search golf courses by course on the home page.
+As an anonymous user, I can search golf courses by city on the home page.
+As an anonymous user, I can search golf courses by Public or Private on the home page.
+As an anonymous user, I can add a golf courses on the home page by clicking the 'Add Course' button.
+
+As an anonymous user, I can view the About page.
+
+As an anonymous user, I can view the Message Board Page.
+As an anonymous user, I can add a message on the Message Board Page.
+As an anonymous user, I can delete a message on the Message Board Page.
